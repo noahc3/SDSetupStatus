@@ -1,31 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: noahc3 # Your GitHub organization or username, where this repository lives
+repo: SDSetupStatus # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: SDSetup Frontend
+    url: https://www.sdsetup.com
+  - name: SDSetup Backend
+    url: https://files.sdsetup.com/api/v1/get/latestpackageset
+  - name: Switch Homebrew Guide
+    url: https://switch.homebrew.guide
+  - name: PegaScape Landing
+    url: https://pegascape.sdsetup.com
+  - name: PegaScape Selector (Prompt)
+    url: http://51.15.245.41
+  - name: PegaScape DNS (Prompt)
+    check: "tcp-ping"
+    url: 51.15.245.41
+    port: 53
+  - name: PegaScape Selector (Applet)
+    url: http://163.172.181.170
+  - name: PegaScape DNS (Applet)
+    check: "tcp-ping"
+    url: 163.172.181.170
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: statusbeta.sdsetup.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: SDSetup Service Status
+  introTitle: "SDSetup Service Status"
+  theme: dark
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/noahc3/SDSetup
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
