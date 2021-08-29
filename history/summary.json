@@ -40,19 +40,19 @@
     "url": "https://switch.homebrew.guide",
     "icon": "https://favicons.githubusercontent.com/switch.homebrew.guide",
     "slug": "switch-homebrew-guide",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 114,
-    "timeDay": 63,
-    "timeWeek": 85,
+    "timeDay": 86,
+    "timeWeek": 88,
     "timeMonth": 114,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2021-08-29": 0
+      "2021-08-29": 15
     }
   },
   {
