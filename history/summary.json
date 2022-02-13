@@ -78,18 +78,20 @@
     "url": "http://51.15.245.41",
     "icon": "https://favicons.githubusercontent.com/51.15.245.41",
     "slug": "pega-scape-selector-prompt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 164,
-    "timeWeek": 230,
-    "timeMonth": 219,
+    "timeDay": 202,
+    "timeWeek": 231,
+    "timeMonth": 220,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   },
   {
     "name": "PegaScape DNS (Prompt)",
