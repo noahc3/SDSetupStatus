@@ -78,19 +78,19 @@
     "url": "http://51.15.245.41",
     "icon": "https://favicons.githubusercontent.com/51.15.245.41",
     "slug": "pega-scape-selector-prompt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 202,
-    "timeWeek": 231,
-    "timeMonth": 220,
+    "timeDay": 191,
+    "timeWeek": 224,
+    "timeMonth": 218,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2022-02-13": 0
+      "2022-02-13": 17
     }
   },
   {
