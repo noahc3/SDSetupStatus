@@ -60,9 +60,9 @@
     "url": "https://pegascape.sdsetup.com",
     "icon": "https://favicons.githubusercontent.com/pegascape.sdsetup.com",
     "slug": "pega-scape-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 121,
     "timeMonth": 162,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-12": 0
+    }
   },
   {
     "name": "PegaScape Selector (Prompt)",
